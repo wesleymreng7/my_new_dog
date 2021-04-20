@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
     breedView: {
         flex:1,
         justifyContent:'center',
-        padding: 10
+        padding: 20
     },
     textBreed: {
         fontSize: 15
